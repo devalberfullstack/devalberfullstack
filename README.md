@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2 align="center">
+	Sejam bem vindos!
+</h2>
 
-<!--
-**devalberfullstack/devalberfullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <a href="https://github.com/wagnerlimanet">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
+  </a>
+</h3>
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>
+Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos necessários para tornar o aprendizado ainda mais fácil; ministrando aulas nas áreas de design, marketing digital, otimização de sites e desenvolvimento web.
+</samp>
+
+<hr />
+
+## Minhas Skills 💻
+#### Desenvolvimento
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=02A9FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
