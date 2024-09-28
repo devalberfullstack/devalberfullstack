@@ -1,17 +1,17 @@
 <h2 align="center">
-	Sejam bem vindos!
+	Sejam Bem Vindos!
 </h2>
 
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Wagner+Lima;Sou+professor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Meu+Nome+é+Alber;Sou+Formado,+Administração,+Tenho+conhecimento+em+Power Bi+Designer Gráfico!&center=true&width=780&height=45">
   </a>
 </h3>
 
 <hr />
 
 <samp>
-Com 20 anos de experiência em sala de aula, adquiri habilidades e conhecimentos necessários para tornar o aprendizado ainda mais fácil; ministrando aulas nas áreas de design, marketing digital, otimização de sites e desenvolvimento web.
+
 </samp>
 
 <hr />
