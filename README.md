@@ -11,7 +11,7 @@
 <hr />
 
 <samp>
-Estou sempre disposto aprender...
+Estou sempre disposto a aprender...
 </samp>
 
 <hr />
