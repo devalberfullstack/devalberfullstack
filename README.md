@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Meu+Nome+é+Alber+Sou+Formado+em+Administração;Tenho+conhecimento+em+Power+Bi+e+Designer+Gráfico!&center=true&width=780&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Meu+Nome+é+Alber+Sou+Formado+em+Administração.;Tenho+conhecimento+em+Power+Bi+e+Designer+Gráfico!&center=true&width=780&height=45">
   </a>
 </h3>
 
