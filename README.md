@@ -11,7 +11,7 @@
 <hr />
 
 <samp>
-ADEV-SERVIÇOS.
+
 </samp>
 
 <hr />
