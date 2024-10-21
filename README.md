@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 ## 🖍 Design Gráfico [🔝](#menu)
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/CorelDRAW-47A141?style=for-the-badge&logo=coreldraw&logoColor=white" />
- ##  Power BI ![image](https://github.com/user-attachments/assets/7a37358d-4d6e-4014-8af6-9dc978e27a05)
+ ##  Power BI ![image](https://github.com/user-attachments/assets/a5a2df01-084c-48ea-bbfe-1657217a6b60)
+
 
  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
  
