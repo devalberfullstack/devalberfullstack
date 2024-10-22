@@ -14,7 +14,7 @@
 
 </samp>
 
-<hr />
+
 
 ## Minhas Skills 💻
 #### Desenvolvimento
