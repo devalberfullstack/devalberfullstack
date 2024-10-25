@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/CorelDRAW-47A141?style=for-the-badge&logo=coreldraw&logoColor=white" />
  ##  ![image](https://github.com/user-attachments/assets/d315a79c-67cc-4a00-9fc2-edcbb7f3b508) Desktop
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
- ![Excel](https://img.shields.io/badge/Excel-Expert-green?logo=microsoft-excel&logoColor=white)
+ <img src="https://img.shields.io/badge/Excel-Expert-green?logo=microsoft-excel&logoColor=white" />
 
 
        
