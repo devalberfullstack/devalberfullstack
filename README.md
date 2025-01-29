@@ -1,14 +1,16 @@
-<h2 align="center">
-	Sejam Bem Vindos!
-</h2>
+
+<h2 align="center">Sejam Bem-Vindos!</h2>
 
 <h2 align="center">Sejam Bem-Vindos!</h2>
 
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=447FF7&center=true&vCenter=true&width=500&height=45&lines=Meu+nome+%C3%A9+Alber.;Sou+formado+em+Administra%C3%A7%C3%A3o.;Tenho+conhecimento+em+Power+BI%2C+Designer+Gr%C3%A1fico%2C+Excel+B%C3%A1sico+e+Avan%C3%A7ado!" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=447FF7&center=true&vCenter=true&width=780&height=45&lines=Meu+nome+%C3%A9+Alber.;Sou+formado+em+Administração.;Tenho+conhecimentos+em+Power+BI.;Designer+Gráfico.;Excel+Básico+e+Avançado!" alt="Typing Animation">
   </a>
 </h3>
+
+<samp></samp>
+
 
 <samp></samp>
 
