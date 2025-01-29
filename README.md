@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=447FF7&center=true&vCenter=true&width=780&height=45&lines=Meu+nome+%C3%A9+Alber.;Sou+formado+em+Administração.;Tenho+conhecimentos+em+Power+BI.;+E+Designer+Gráfico!" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=447FF7&center=true&vCenter=true&width=780&height=45&lines=Meu+nome+%C3%A9+Alber.;Sou+formado+em+Administração.;Tenho+conhecimentos+em+Power+BI,e+Design+Gráfico!" alt="Typing Animation">!" alt="Typing Animation">
   </a>
 </h3>
 
