@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+![JSON Server](https://img.shields.io/badge/Database-JSON%20Server-green?style=flat&logo=json)
+
 
 ## 🎨 Design Gráfico 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/CorelDRAW-47A141?style=for-the-badge&logo=coreldraw&logoColor=white" />
