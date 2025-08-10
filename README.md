@@ -37,6 +37,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![Sequelize](https://img.shields.io/badge/Sequelize-ORM%20for%20Node.js-4479A1?logo=sequelize)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 
 
 
