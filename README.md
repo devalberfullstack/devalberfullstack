@@ -1,11 +1,8 @@
-
-
-
 <h2 align="center">Sejam Bem-Vindos!</h2>
 
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3000&color=447FF7&center=true&vCenter=true&width=780&height=45&lines=Meu+nome+%C3%A9+Alber.+Minha+forma%C3%A7%C3%A3o+%C3%A9+em+Administra%C3%A7%C3%A3o.+Busco+aliar+meus+conhecimentos+em+an%C3%A1lise+de+dados+e+tecnologia+para+contribuir+com+a+melhoria+de+processos+e+tomada+de+decis%C3%B5es." alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=8000&pause=2000&color=447FF7&center=true&vCenter=true&width=1000&height=80&lines=Meu+nome+%C3%A9+Alber.+Minha+forma%C3%A7%C3%A3o+%C3%A9+em+Administra%C3%A7%C3%A3o.+Busco+aliar+meus+conhecimentos+em+an%C3%A1lise+de+dados+e+tecnologia+para+contribuir+com+a+melhoria+de+processos+e+tomada+de+decis%C3%B5es." alt="Typing Animation">
   </a>
 </h3>
 
@@ -33,18 +30,11 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 
-
-
-
-
-
-
-
 ## 🎨 Design Gráfico 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/CorelDRAW-47A141?style=for-the-badge&logo=coreldraw&logoColor=white" />
- ## ![image](https://github.com/user-attachments/assets/cc697601-3764-48f0-8bee-882e6adcf830) Desktop
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CorelDRAW-47A141?style=for-the-badge&logo=coreldraw&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-2019-217346?logo=microsoft-excel&logoColor=white" />
-
-
-       
+## Desktop
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Excel-2019-217346?logo=microsoft-excel&logoColor=white" />
