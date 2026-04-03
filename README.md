@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=8000&pause=2000&color=447FF7&center=true&vCenter=true&width=1000&height=80&lines=Meu+nome+%C3%A9+Alber.+Minha+forma%C3%A7%C3%A3o+%C3%A9+em+Administra%C3%A7%C3%A3o.+Busco+aliar+meus+conhecimentos+em+an%C3%A1lise+de+dados+e+tecnologia+para+contribuir+com+a+melhoria+de+processos+e+tomada+de+decis%C3%B5es." alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=4000&pause=2000&color=447FF7&center=true&vCenter=true&width=1000&height=80&lines=Meu+nome+%C3%A9+Alber.;Minha+forma%C3%A7%C3%A3o+%C3%A9+em+Administra%C3%A7%C3%A3o.;Busco+aliar+meus+conhecimentos+em+an%C3%A1lise+de+dados+e+tecnologia.;Para+contribuir+com+a+melhoria+de+processos+e+tomada+de+decis%C3%B5es." alt="Typing Animation">
   </a>
 </h3>
 
